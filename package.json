@@ -19,5 +19,6 @@
   "homepage": "https://github.com/lucasfeitosatech/DH#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {}
 }
